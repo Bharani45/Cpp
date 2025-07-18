@@ -1,6 +1,0 @@
-Name: bharani
-Password: 12345689
-Email: bharani@gmail.comName: bharani
-Password: 123456789
-Email: bharaniapm@gmail.com
----

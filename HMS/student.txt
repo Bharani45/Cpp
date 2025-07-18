@@ -1,5 +1,0 @@
-Name: raj
-Password: stu123
-Roll.No: 45
-Department: CSE
----
